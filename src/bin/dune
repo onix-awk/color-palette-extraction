@@ -1,0 +1,4 @@
+(executable
+    (name main)
+    (public_name color-palette-extraction)
+    (libraries color_palette_extraction))

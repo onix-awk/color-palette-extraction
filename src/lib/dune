@@ -1,0 +1,4 @@
+(library
+    (name color_palette_extraction)
+    (public_name color-palette-extraction)
+    (libraries camlimages.jpeg))
